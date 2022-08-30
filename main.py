@@ -1,6 +1,4 @@
-# Tim Jarvis
-# Final Exam: Quantum Computation
-# Due Date: August 23, 2022
+
 
 from hadamard import Hadamard
 from paulix import PauliX
