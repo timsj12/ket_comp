@@ -1,6 +1,3 @@
-# Tim Jarvis
-# Final Exam: Quantum Computation
-# Due Date: August 23, 2022
 
 import numpy as np
 from qbit import Qbit
